@@ -21,7 +21,7 @@ It integrates **Power BI dashboards**, **Python analytics notebooks**, and **pre
 
 
 <p align="center">
-  <img src="C:\Users\Mega-PC\Desktop\Login.jpg" width="700" alt="Dashboard Preview 1" />
+  <img src="./capture_btw/img/495047884_715626224312683_1658212573077395093_n.png" width="700" alt="Dashboard Preview 1" />
 </p>
 
 <p align="center">
